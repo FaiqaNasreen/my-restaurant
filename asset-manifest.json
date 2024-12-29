@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/my-restaurant/static/css/main.ae69f9a8.css",
+    "main.js": "/my-restaurant/static/js/main.026083a8.js",
+    "static/media/coffee.jpg": "/my-restaurant/static/media/coffee.f05862daa8842d760564.jpg",
+    "static/media/pasta.jpg": "/my-restaurant/static/media/pasta.bb6c0d808a9b0c20bc34.jpg",
+    "static/media/coffee-items.jpg": "/my-restaurant/static/media/coffee-items.a04950a3bad5dd5b0079.jpg",
+    "static/media/cheese.jpg": "/my-restaurant/static/media/cheese.b4088861292d79b069f3.jpg",
+    "static/media/pizza.jpeg": "/my-restaurant/static/media/pizza.225d0b008321f1d6f3b8.jpeg",
+    "static/media/img1.jpg": "/my-restaurant/static/media/img1.8991f1eb2ec84b752201.jpg",
+    "static/media/cheese.jpeg": "/my-restaurant/static/media/cheese.551bb1851a9080e2ea1c.jpeg",
+    "static/media/kitchen_chef_edit.jpeg": "/my-restaurant/static/media/kitchen_chef_edit.34095c6c629c293d28f9.jpeg",
+    "static/media/wine.jpeg": "/my-restaurant/static/media/wine.8b3552fb42e438aa748e.jpeg",
+    "static/media/pasta.jpeg": "/my-restaurant/static/media/pasta.c802c214c132729297e1.jpeg",
+    "static/media/cake.jpg": "/my-restaurant/static/media/cake.e3066216d69dd047ea6b.jpg",
+    "static/media/burger.jpg": "/my-restaurant/static/media/burger.8f759a3ae39e0e128a01.jpg",
+    "static/media/coffee.jpeg": "/my-restaurant/static/media/coffee.2a27959e90b46915a745.jpeg",
+    "static/media/cheese2.jpg": "/my-restaurant/static/media/cheese2.690e82a10de1fa3b154b.jpg",
+    "static/media/logo.png": "/my-restaurant/static/media/logo.9508fb7d4847cccddd8f.png",
+    "static/media/slick.svg": "/my-restaurant/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/my-restaurant/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/my-restaurant/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/my-restaurant/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/my-restaurant/index.html",
+    "main.ae69f9a8.css.map": "/my-restaurant/static/css/main.ae69f9a8.css.map",
+    "main.026083a8.js.map": "/my-restaurant/static/js/main.026083a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae69f9a8.css",
+    "static/js/main.026083a8.js"
+  ]
+}
