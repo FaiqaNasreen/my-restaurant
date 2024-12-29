@@ -1,0 +1,93 @@
+.staf-img {
+    background-image: url('./../../../assets/kitchen_chef_edit.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height:214vh;
+    position: relative;
+}
+@media (max-width: 768px) {
+    .staf-img {
+        height: 50vh; /* Reduce height on smaller screens */
+    }
+}
+
+@media (max-width: 480px) {
+    .staf-img {
+        height: 40vh; /* Further reduce height on very small screens */
+    }
+}
+.staf-content{
+    position: absolute;
+    bottom: 5%;
+    padding: 10px;
+    background-color: var(--color-primary);
+}
+
+.staf-info h4 {
+    text-transform: uppercase;
+}
+
+.staf-info p {
+    padding-top: 10px;
+}
+.grid-containers{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 30px;
+  }
+  
+  .py-md {
+    padding: 50px 0;
+  }
+  @media (max-width: 768px) {
+    .heading-primary {
+      font-size: 2rem;
+    }
+  
+    .text-white {
+      font-size: 1rem;
+    }
+  
+    .grid-container {
+      grid-template-columns: 1fr;
+    }
+  
+    .heading-tertiary {
+      font-size: 1.2rem;
+    }
+  
+    h4 {
+      font-size: 1rem;
+    }
+  
+    p {
+      font-size: 0.9rem;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .heading-primary {
+      font-size: 1.5rem;
+    }
+  
+    .text-white {
+      font-size: 0.9rem;
+    }
+  
+    .grid-item {
+      padding: 15px;
+    }
+  
+    .heading-tertiary {
+      font-size: 1rem;
+    }
+  
+    h4 {
+      font-size: 0.9rem;
+    }
+  
+    p {
+      font-size: 0.8rem;
+    }
+  }

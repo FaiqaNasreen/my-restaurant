@@ -1,0 +1,17 @@
+.hero-img {
+    height:100vh;
+    background-image: url('../../../assets/pasta.jpeg');
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    position: relative;
+}
+
+.main-content{
+    position: absolute;
+    top: 41%;
+}
+
+.main-content p {
+    font-size: 19px;
+}
